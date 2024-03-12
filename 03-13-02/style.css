@@ -1,0 +1,15 @@
+.header {
+    background-color: bisque;
+    width: 70ch;
+    max-width: 100%;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card-row{
+    display: flex;
+    flex-wrap: wrap;
+}
