@@ -1,7 +1,19 @@
 .sugarmascara{
     float: right;
 }
-
 .mascarabenefits{
-    width: 680px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgwtext{
+    display: flex;
+    
+}
+.imgwtext img{
+    margin-right: 100%;
+    border-radius:25% ;
+}
+.button{
+    align-items: left;
 }
