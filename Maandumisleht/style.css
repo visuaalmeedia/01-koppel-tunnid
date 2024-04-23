@@ -40,6 +40,7 @@
     padding-bottom: 50px;
 }
 .logo{
-    padding-bottom: 150px;height: 200px;
+    padding-bottom: 0px;height: 150px;
     background-image: linear-gradient(#DF90A9, #DEC7CF);
+    width: flex;
 }
