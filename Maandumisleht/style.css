@@ -58,3 +58,5 @@ footer{
     background-image: linear-gradient(#FAEBEB, #DF90A9);
     color: black;
 }
+body{
+    margin: 0;
