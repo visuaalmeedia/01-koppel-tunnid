@@ -8,7 +8,6 @@
 }
 .imgwtext{
     display: flex;
-    
 }
 .imgwtext img{
     margin-right: 100%;
@@ -61,13 +60,3 @@ footer{
 body{
     margin: 0;
 }
-.column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-  }
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }

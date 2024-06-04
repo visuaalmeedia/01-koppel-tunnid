@@ -1,0 +1,83 @@
+.button{
+    align-items: left;
+}
+.button{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #DF90A9;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 15px;
+    border-style: solid;
+}
+.button:hover {
+    background-color:#CEC6C8;
+    color: rgb(221, 24, 191);
+}
+.sugarmascara{
+    float: right;
+}
+.mascarabenefits{
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgwtext{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 29px;
+    padding-left: 50px;
+}
+.imgwtext img{
+    margin-right: 100%;
+    border-radius:25% ;
+    padding-left: 50px;
+    padding-right: 50px
+}
+.h1class{
+    padding-bottom: 50px;
+    padding-top: 150px;
+    color: #DEC7CF;
+    stroke-width: 3px;
+    -webkit-text-stroke-color: #000;
+    font-family: Lexend;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal; 
+    padding-left: 50px;
+}
+.logo{
+    padding-bottom: 0px;height: 150px;
+    background-image: linear-gradient(#DF90A9, #FAEBEB);
+    width: flex;
+}
+.header{
+    width: max-content;
+}
+main{
+    width: 1095px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(#FAEBEB, #DF90A9);
+    color: black;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.column {
+    float: left;
+    width: 33.33%;
+}
